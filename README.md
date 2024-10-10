@@ -26,24 +26,14 @@
   Попробовал, понравилось, стал развиваться в данном направлении.
   Задачи на ближайшее время и технологии которыми я хочу овладеть: углублять свои знания в JS, уверенно овладеть фреймворком (React), научиться создавать SPA, разобраться с REST API
   </div>
-  <div>
-    <p>
-          - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-    </p>
-    <p>
-          - :seedling: Exploring Technical Content Writing.
-    </p>
-    <p>
-          - :zap: In my free time, I solve problems on Leetcode and read tech articles.
-    </p>
-    <p>
-          - :mailbox:How to reach me:   <a href="https://t.me/Gunther_Mitmacht" target="_blank">
-    <img src="https://img.shields.io/badge/@Gunther_Mitmacht-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram_Badge"/>
-  </a>
-    </p>
-  </div>
-
 </div>
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+
+
 
 
 

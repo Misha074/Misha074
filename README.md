@@ -15,8 +15,6 @@
 
 
 <div id="main" align="start">
-  ---
-
 ### :man_technologist: Обо мне :
   <div>
     <p>

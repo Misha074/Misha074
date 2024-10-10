@@ -5,11 +5,11 @@
 </div>
 
 <div id="badges">
-  <a href="www.linkedin.com/in/mikhailpetrushkov">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="blank"/>
+  <a href="www.linkedin.com/in/mikhailpetrushkov" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/Gunther_Mitmacht">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram Badge" target="blank"/>
+  <a href="https://t.me/Gunther_Mitmacht" target="blank">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 

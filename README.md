@@ -27,10 +27,18 @@
   Задачи на ближайшее время и технологии которыми я хочу овладеть: углублять свои знания в JS, уверенно овладеть фреймворком (React), научиться создавать SPA, разобраться с REST API
   </div>
   <div>
-    - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-      - :seedling: Exploring Technical Content Writing.
-    - :zap: In my free time, I solve problems on Leetcode and read tech articles.
-    - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-your-username-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Gunther_Mitmacht)
+    <p>
+          - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+    </p>
+    <p>
+          - :seedling: Exploring Technical Content Writing.
+    </p>
+    <p>
+          - :zap: In my free time, I solve problems on Leetcode and read tech articles.
+    </p>
+    <p>
+          - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-your-username-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Gunther_Mitmacht)
+    </p>
   </div>
 
 </div>

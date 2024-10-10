@@ -50,11 +50,23 @@
 
 ### :hammer_and_wrench: Мой стек :
 
-![JavaScript](https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logo=html&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![GitHub](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+HTML5
+Валидная верстка
+БЭМ
+PUG
+CSS3
+Sass
+Less
+Адаптивная верстка
+Кроссбраузерная верстка
+SEO оптимизация
+JavaScript
+React
+Redux
+Git
+Figma
+PixelPerfect
+DRY
 </div>
 
 

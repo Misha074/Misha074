@@ -49,24 +49,59 @@
 ---
 
 ### :hammer_and_wrench: Мой стек :
-
-HTML5
-Валидная верстка
-БЭМ
-PUG
-CSS3
-Sass
-Less
-Адаптивная верстка
-Кроссбраузерная верстка
-SEO оптимизация
-JavaScript
-React
-Redux
-Git
-Figma
-PixelPerfect
-DRY
+  <ul>
+    <li>
+      HTML5
+    </li>
+    <li>
+      Валидная верстка
+    </li>
+    <li>
+      БЭМ
+    </li>
+    <li>
+      PUG
+    </li>
+    <li>
+      CSS3
+    </li>
+    <li>
+      Sass
+    </li>
+    <li>
+      Less
+    </li>
+    <li>
+      Адаптивная верстка
+    </li>
+    <li>
+      Кроссбраузерная верстка
+    </li>
+    <li>
+      SEO оптимизация
+    </li>
+    <li>
+      JavaScript
+    </li>
+    <li>
+      React
+    </li>
+    <li>
+      Redux
+    </li>
+    <li>
+      Git
+    </li>
+    <li>
+      Figma
+    </li>
+    <li>
+      PixelPerfect
+    </li>
+    <li>
+      DRY
+    </li>
+  </ul>
 </div>
 
 

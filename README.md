@@ -42,6 +42,11 @@
       Буду рад ответить на ваши вопросы <br>
       https://t.me/Gunther_Mitmacht
     </p>
+
+     <p>
+      Резюме на хх
+      https://hh.ru/resume/9ba1f880ff0bf2e2c90039ed1f656f46326e57
+    </p>
   </div>
 </div>
 <div>

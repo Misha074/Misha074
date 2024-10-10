@@ -38,7 +38,7 @@
     </p>
     <p>
           - :mailbox:How to reach me:   <a href="https://t.me/Gunther_Mitmacht" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram_Badge"/>
+    <img src="https://img.shields.io/badge/Gunther_Mitmacht-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram_Badge"/>
   </a>
     </p>
   </div>

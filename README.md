@@ -17,7 +17,7 @@
 <div id="main" align="start">
 ---
 
-### :man_technologisth: Обо мне :
+### :man_technologist: Обо мне :
   <div>
     <p>
       Frontend-разработчик, прошёл обучение, имею год проектного опыта. Отлично разбираюсь в вёрстке. Также имею опыт работы с React и Redux и GSAP. 

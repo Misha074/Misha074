@@ -45,7 +45,6 @@
   </div>
 </div>
 <div>
----
 
 ### :hammer_and_wrench: Мой стек :
   <ul>

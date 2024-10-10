@@ -39,8 +39,7 @@
       разобраться с REST API
     </p>
     <p>
-      https://github.com/Misha074
-      Буду рад ответить на ваши вопросы
+      Буду рад ответить на ваши вопросы <br>
       https://t.me/Gunther_Mitmacht
     </p>
   </div>

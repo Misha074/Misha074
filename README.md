@@ -50,6 +50,7 @@
 
 ### :hammer_and_wrench: Мой стек :
 
+![JavaScript](https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logo=html&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)

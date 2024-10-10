@@ -38,11 +38,11 @@
       научиться создавать SPA, 
       разобраться с REST API
     </p>
-
-  
-
-    
-
+    <p>
+      https://github.com/Misha074
+      Буду рад ответить на ваши вопросы
+      https://t.me/Gunther_Mitmacht
+    </p>
   </div>
 </div>
 <div>

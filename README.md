@@ -37,7 +37,7 @@
           - :zap: In my free time, I solve problems on Leetcode and read tech articles.
     </p>
     <p>
-          - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-your-username-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Gunther_Mitmacht)
+          - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-your-username-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url)
     </p>
   </div>
 

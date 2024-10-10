@@ -6,10 +6,10 @@
 
 <div id="badges">
   <a href="www.linkedin.com/in/mikhailpetrushkov">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="blank"/>
   </a>
   <a href="https://t.me/Gunther_Mitmacht">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram Badge" target="blank"/>
   </a>
 </div>
 
